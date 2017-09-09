@@ -1,7 +1,14 @@
 Command List
 
+========
 Commands
-join, !leave, !rouletteinfo
+========
+
+
+Chatroulette:
+!join, Join the roulette when it is active
+!leave, Leave the roulette
+!rouletteinfo,  Get information about the roulette
 
 !shots, !candy, !fortune, !cookie, !8ball, !coinflip, !acronym, !gif, !fistmedaddy
 
