@@ -4,6 +4,8 @@ Command List
 Commands
 ========
 
+Help:
+!help, shows a list of commands
 
 Chatroulette:
 !join, Join the roulette when it is active
